@@ -16,7 +16,7 @@
 ## ⭐ Itens de Destaque (20%)
 - Você conquistou `4` bônus! Excelente trabalho nos detalhes adicionais!
   - 🌟 **Testes bônus passados**: `test_bonus.py::test_profile_picture_used`
-    - Uma imagem de perfil está presente na apresentação.
+    - Uma imagem de perfil está presente na apresentação.  
   - 🌟 **Testes bônus passados**: `test_bonus.py::test_custom_classes_used`
     - Classes personalizadas estão sendo usadas além das do Bootstrap.
   - 🌟 **Testes bônus passados**: `test_bonus.py::test_hover_effects_or_transitions`
